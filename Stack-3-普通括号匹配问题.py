@@ -36,3 +36,4 @@ def matches(open, close):
 
 s = "{[)}"
 print(parChecker(s))
+print(s)
